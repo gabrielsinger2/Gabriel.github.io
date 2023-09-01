@@ -1,0 +1,1 @@
+We propose two algorithms, all deduced from LeVerrier's algorithm, using among others numpy libraries. The first algorithm calculates the characteristic polynomial and the second the determinant of $A \in M_{n}(k)$ where $k=\mathbb{R}$.
